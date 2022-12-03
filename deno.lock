@@ -1,0 +1,16 @@
+{
+  "version": "2",
+  "remote": {
+    "https://deno.land/std@0.166.0/_util/asserts.ts": "d0844e9b62510f89ce1f9878b046f6a57bf88f208a10304aab50efcb48365272",
+    "https://deno.land/std@0.166.0/flags/mod.ts": "3b459daf581e047819b6b799c92b96c81b4eecbd5ea025643d54dc0abc6ac923"
+  },
+  "npm": {
+    "specifiers": { "@types/spotify-api": "@types/spotify-api@0.0.19" },
+    "packages": {
+      "@types/spotify-api@0.0.19": {
+        "integrity": "sha512-tdtxjhZs7w/dN7kpeezRe492kXzWXvilW/1ibNMoM2ymcRwKCrK5exEeBNCZhwZMtG+S2eZMaAaBsnTnqun1PQ==",
+        "dependencies": {}
+      }
+    }
+  }
+}

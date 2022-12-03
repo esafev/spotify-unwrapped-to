@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "spotifyTypes": "npm:@types/spotify-api",
+    "flags": "https://deno.land/std@0.166.0/flags/mod.ts"
+  }
+}
