@@ -12,4 +12,5 @@ Export your Spotify library to JSON. Written in Deno with NPM compatibility.
 - [ ] `deno compile` [see [issue](http://https://github.com/denoland/deno/issues/16632)]
 - [ ] Export to various formats [such as `xml`]
 - [ ] Custom export schema support
+- [ ] Write file using Streams
 - [ ] Create a good readme 🤪
